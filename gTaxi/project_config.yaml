@@ -1,0 +1,38 @@
+# root directory for the data
+data_root: &data_root !join [Data]
+
+# data for guided waves
+guided_waves:
+  data:
+    rx_dump: !join [*data_root, guided_waves_rx_store.hd5]
+    tx_dump: !join [*data_root, guided_waves_tx_store.hd5]
+
+  experiment:
+    frequency: [40, 60, 80, 100, 120]
+    impact_energy: [0, 1.5, 1.5, 1.5, 1.5, 1.5, 3.5, 4.5, 6.0, 7.5]
+    actuator_id: ['1T', '2T', '3T', '1B', '2B', '3B']
+    sensor_id: ['4T', '5T', '6T', '4B', '5B', '6B']
+
+  features:
+    complex_amp:
+      dump: !join [*data_root, gw_features_complexamp.xlsx]
+      dump_baselined: !join [*data_root, gw_features_complexamp_baselined.xlsx]
+      pw: !!float 35.7e-6
+      nfft: 16384
+      frequency: 100
+      actuator: '2T'
+      holdoff: !!float 70e-6
+    coherence:
+      dump: !join [*data_root, gw_features_coherence.xlsx]
+      pw: !!float 35.7e-6
+      frequency: 100
+      actuator: '2T'
+      holdoff: !!float 70e-6
+    pca:
+      dump: !join [*data_root, gw_features_pca.xlsx]
+
+laser:
+  root_dir: !join [*data_root, Laser_Scans]
+  dump: !join [*data_root, laser_scans.hd5]
+
+

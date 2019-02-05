@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df5320e9-ffa3-4d5a-896d-e983dd60d07d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="4" selection-start-line="4" selection-end-line="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>legendHandles</find>
+      <find>handle_list</find>
+      <find>legend</find>
+      <find>_init_legend_box</find>
+      <find>QApplication</find>
+      <find>def window</find>
+      <find>multiarray</find>
+      <find>zero</find>
+      <find>zeros</find>
+      <find>conf</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/two_ray_model/two_ray_model.py" />
+        <option value="$PROJECT_DIR$/packages/defaults.py" />
+        <option value="$PROJECT_DIR$/packages/utkit/__init__.py" />
+        <option value="$PROJECT_DIR$/dd.py" />
+        <option value="$PROJECT_DIR$/packages/utkit/signal2d.py" />
+        <option value="$PROJECT_DIR$/test/gw_pulsewidth.py" />
+        <option value="$PROJECT_DIR$/packages/scihdf/scihdf.py" />
+        <option value="$PROJECT_DIR$/test/gw_signal_example.py" />
+        <option value="$PROJECT_DIR$/journal/complex_feature.py" />
+        <option value="$PROJECT_DIR$/journal/feature_complexamp_baselined.py" />
+        <option value="$PROJECT_DIR$/test/gw_complexamp_plot.py" />
+        <option value="$PROJECT_DIR$/journal/feature_coherence.py" />
+        <option value="$PROJECT_DIR$/journal/features/feature_coherence.py" />
+        <option value="$PROJECT_DIR$/journal/figures/coherence_plane.py" />
+        <option value="$PROJECT_DIR$/journal/figures/complex_plane.py" />
+        <option value="$PROJECT_DIR$/journal/features/feature_pca.py" />
+        <option value="$PROJECT_DIR$/journal/features/features_manifold.py" />
+        <option value="$PROJECT_DIR$/packages/utkit/signal.py" />
+        <option value="$PROJECT_DIR$/jobtalk/two_ray_model/two_ray_model.py" />
+        <option value="$PROJECT_DIR$/two_ray_model.py" />
+        <option value="$PROJECT_DIR$/plot_styles.mplstyle" />
+        <option value="$PROJECT_DIR$/journal/figures/time_binning_demo.py" />
+        <option value="$PROJECT_DIR$/journal/figures/figures_config.yaml" />
+        <option value="$PROJECT_DIR$/journal/figures/plot_styles.mplstyle" />
+        <option value="$PROJECT_DIR$/packages/two_ray_model.py" />
+        <option value="$PROJECT_DIR$/packages/__init__.py" />
+        <option value="$PROJECT_DIR$/journal/figures/time_binning_example.py" />
+        <option value="$PROJECT_DIR$/config.yaml" />
+        <option value="$PROJECT_DIR$/journal_2017/journal2017_config.yaml.py" />
+        <option value="$PROJECT_DIR$/journal_2017/journal2017_config.yaml" />
+        <option value="$PROJECT_DIR$/packages/utils.py" />
+        <option value="$PROJECT_DIR$/project_config.yaml" />
+        <option value="$PROJECT_DIR$/mangle_data/laser.py" />
+        <option value="$PROJECT_DIR$/mangle_data/guided_waves.py" />
+        <option value="$PROJECT_DIR$/journal_2017/features/feature_complexamp.py" />
+        <option value="$PROJECT_DIR$/journal_2017/features/feature_complexamp_baselined.py" />
+        <option value="$PROJECT_DIR$/journal_2017/features/feature_coherence.py" />
+        <option value="$PROJECT_DIR$/journal_2017/features/analytic_study.py" />
+        <option value="$PROJECT_DIR$/journal_2017/figures/ocsvm_example.py" />
+        <option value="$PROJECT_DIR$/wrangle_data/guided_waves.py" />
+        <option value="$PROJECT_DIR$/gTaxi/wrangle_data/guided_waves.py" />
+        <option value="$PROJECT_DIR$/sof.py" />
+        <option value="$PROJECT_DIR$/theoretical.py" />
+        <option value="$PROJECT_DIR$/gTaxi/figures/all_signals_display.py" />
+        <option value="$PROJECT_DIR$/bla.py" />
+        <option value="$PROJECT_DIR$/gTaxi/bla.py" />
+        <option value="$PROJECT_DIR$/gTaxi/figures/analytic_channel_reatime_performance.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/gTaxi/figures/laser_scans.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1919" />
+    <option name="width" value="1922" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="gTaxi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="gTaxi" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="gTaxi" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="scihdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="gTaxi" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="utkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Code" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Code" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gTaxi" />
+      <recent name="$PROJECT_DIR$/packages" />
+      <recent name="$PROJECT_DIR$/journal" />
+      <recent name="$PROJECT_DIR$/journal/features" />
+      <recent name="$PROJECT_DIR$/features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/journal/figures" />
+      <recent name="$PROJECT_DIR$/jobtalk" />
+      <recent name="$PROJECT_DIR$/dump_figures/jobtalk" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.laser_scans">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="analytic_channel_reatime_performance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gTaxi/figures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gTaxi/figures/analytic_channel_reatime_performance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bla" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gTaxi/bla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="laser_scans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gTaxi/figures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gTaxi/figures/laser_scans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_ray_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analytical_modeling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.two_ray_model" />
+      <item itemvalue="Python.bla" />
+      <item itemvalue="Python.analytic_channel_reatime_performance" />
+      <item itemvalue="Python.try" />
+      <item itemvalue="Python.laser_scans" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.laser_scans" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.analytic_channel_reatime_performance" />
+        <item itemvalue="Python.bla" />
+        <item itemvalue="Python.two_ray_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df5320e9-ffa3-4d5a-896d-e983dd60d07d" name="Default" comment="" />
+      <created>1485733318334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485733318334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1919" y="0" width="1922" height="1055" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.50581396" side_tool="true" weight="0.16903633" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5637584" visible="true" weight="0.22896698" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32778865" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Salesforce" order="6" />
+      <window_info anchor="bottom" id="Debug Logs" order="7" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.29882812" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32601535" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.27667612" />
+      <window_info anchor="right" id="make" />
+      <window_info anchor="right" id="Structure" order="0" sideWeight="0.4362416" visible="true" weight="0.23908414" />
+      <window_info anchor="right" id="Data View" order="1" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="TODO" order="5" weight="0.32977587" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" sideWeight="0.50581396" side_tool="true" weight="0.16903633" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5637584" visible="true" weight="0.18676628" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32910156" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3558011" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32741398" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.35092863" />
+      <window_info anchor="right" id="Structure" order="0" sideWeight="0.4362416" visible="true" weight="0.22091782" />
+      <window_info anchor="right" id="Data View" order="1" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="TODO" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/gTaxi" />
+      <path value="$PROJECT_DIR$/gTaxi/packages/utkit" />
+      <path value="$PROJECT_DIR$/packages/utkit" />
+      <path value="$PROJECT_DIR$/wrangle_data/packages/utkit" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/random/randomkit.h" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/ma/__init__.py" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/core/numeric.py" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/core/__init__.py" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/core/info.py" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/core/include/numpy/ndarrayobject.h" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/core/include/numpy/multiarray_api.txt" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/numpy/core/include/numpy/npy_common.h" />
+    <entry file="file://$PROJECT_DIR$/plot_styles.mplstyle" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/figures/complex_plane.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/figures/plot_styles.mplstyle" />
+    <entry file="file://$PROJECT_DIR$/packages/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/figures/time_binning_example.py" />
+    <entry file="file://$PROJECT_DIR$/packages/two_ray_model.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/figures/coherence_plane.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/journal2017_config.yaml" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/figures/figures_config.yaml" />
+    <entry file="file://$PROJECT_DIR$/mangle_data/laser.py" />
+    <entry file="file://$PROJECT_DIR$/packages/utils.py" />
+    <entry file="file://$PROJECT_DIR$/mangle_data/guided_waves.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/features/feature_complexamp_baselined.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/features/feature_pca.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/features/feature_coherence.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/features/feature_complexamp.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/figures/ocsvm_example.py" />
+    <entry file="file://$PROJECT_DIR$/jobtalk/dump_figures/jobtalk/novelty_detection_svm.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/features/analytic_study.py" />
+    <entry file="file://$PROJECT_DIR$/journal_2017/features/features_manifold.py" />
+    <entry file="file://$PROJECT_DIR$/analytical_modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/scihdf/scihdf.py" />
+    <entry file="file://$PROJECT_DIR$/packages/defaults.py" />
+    <entry file="file://$PROJECT_DIR$/project_config.yaml" />
+    <entry file="file://$USER_HOME$/Software/anaconda3/lib/python3.5/site-packages/pandas/io/pytables.py" />
+    <entry file="file://$PROJECT_DIR$/gTaxi/wrangle_data/guided_waves.py" />
+    <entry file="file://$PROJECT_DIR$/gw_performance.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sof.py" />
+    <entry file="file://$PROJECT_DIR$/gTaxi/packages/two_ray_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoretical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/packages/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/packages/scihdf/scihdf.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py" />
+    <entry file="file://$PROJECT_DIR$/wrangle_data/guided_waves_temp_only.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrangle_data/guided_waves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/figures/analytic_channel_reatime_performance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/figures/all_signals_display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/bla.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/figures/laser_scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="e#43#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/Data/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gTaxi/figures/classification_approach/demo_classification.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

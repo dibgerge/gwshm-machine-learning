@@ -1,0 +1,65 @@
+@import url("bizstyle.css");
+
+body {
+     margin: 0px 40px 0px 0px;
+}
+
+div.document {
+    background-color: #fbfbfb;
+}
+
+dl.function dt{
+	background-color: #E1E3E6;
+	border-style: outset;
+	border-width: 1px;
+	border-color: #D0D4D9;
+}
+
+dl.class dt{
+	background-color: #C2D7ED;
+	border-style: outset;
+	border-width: 1px;
+	border-color: #A5CBF2;
+}
+
+dl.method dt{
+	background-color: #E1E3E6;
+	border-style: outset;
+	border-width: 1px;
+	border-color: #D0D4D9;
+}
+
+dl.attribute dt{
+	background-color: #E1E3E6;
+	border-style: outset;
+	border-width: 1px;
+	border-color: #D0D4D9;
+}
+
+div.body a {
+    text-decoration: none;
+}
+
+/*
+table.longtable tr, table.longtable td {
+    border: 1px solid white;
+    word-break: normal;
+}
+
+table.docutils.field-list td, table.docutils.field-list th, table.docutils.field-list tr {
+    border: 2px solid white;
+    word-break: normal;
+}
+*/
+table.docutils tr, table.docutils td {
+    border: 1px solid white;
+    word-break: keep-all;
+}
+
+/* WIDE DESKTOP STYLE */
+@media only screen and (min-width: 1176px) {
+body {
+    margin: 0 40px 0 0px;
+    width: 1175px;
+}
+}

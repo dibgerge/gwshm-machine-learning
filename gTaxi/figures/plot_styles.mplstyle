@@ -1,0 +1,22 @@
+figure.titlesize : 9
+axes.titlesize  : 9
+axes.labelsize  : 9
+axes.linewidth  : 0.25
+
+lines.linewidth : 1.1
+xtick.major.width   : 0.25
+ytick.major.width   : 0.25
+xtick.major.size    : 3
+ytick.major.size    : 3
+
+xtick.labelsize : 9
+ytick.labelsize : 9
+
+grid.linewidth  : 0.5
+grid.linestyle  : :
+grid.alpha      : 0.75
+
+figure.dpi      : 600
+
+font.family     : serif
+font.serif      : Bitstream Vera Serif, DejaVu Serif, Time New Roman, Times

@@ -1,0 +1,5 @@
+UTkit Documentation
+===================
+
+.. automodule:: utkit
+
